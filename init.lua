@@ -37,6 +37,7 @@ require('dpnn.Decorator')
 require('dpnn.Serial')
 require('dpnn.DontCast')
 require('dpnn.NaN')
+require('dpnn.Profile')
 
 -- modules
 require('dpnn.PrintSize')
